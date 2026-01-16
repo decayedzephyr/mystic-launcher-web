@@ -1,6 +1,6 @@
 可供下载安装的客户端 :
 
-[Mystic-MC1.21.11-260116-Official]
+[Mystic-DownloadTest-260117-Nightly]
 
 可供下载安装的Java/JDK :
 
